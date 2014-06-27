@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/weiwu/Git/android_practice/.metadata/.plugins/org.eclipse.jdt.core
+3930390797.index
+20297843.index
+1270315800.index
+891312172.index
